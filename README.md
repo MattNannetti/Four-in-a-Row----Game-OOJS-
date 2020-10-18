@@ -5,7 +5,9 @@
 ### Tools:
 
 -OOP in Javascript
+
 -HTML
+
 -CSS
 
 ### Objective:
